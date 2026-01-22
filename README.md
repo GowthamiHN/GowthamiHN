@@ -12,8 +12,9 @@ using Java, HTML, CSS, JavaScript, React JS, and SQL.
 - Git & GitHub
 
 ### Projects
--Fake News Detection
-- Heart Disease Prediction
+ - Fake News Detection
+ - Heart Disease Prediction
+ - M-Zonout(Web Application)
 
 ### Currently Learning
 - Advanced Java
