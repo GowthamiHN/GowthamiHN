@@ -9,6 +9,7 @@ using Java, HTML, CSS, JavaScript, React JS, and SQL.
 - JavaScript
 - React JS
 - SQL (MySQL)
+- Spring Boot, Spring MVC
 - Git & GitHub
 
 ### Projects
